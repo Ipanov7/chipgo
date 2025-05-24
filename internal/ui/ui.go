@@ -1,8 +1,8 @@
 package ui
 
 import (
-	"chipgo/entities"
-	"chipgo/hw"
+	"chipgo/internal/entities"
+	"chipgo/internal/hw"
 	"fmt"
 	"strings"
 	"sync"

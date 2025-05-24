@@ -1,10 +1,10 @@
 package main
 
 import (
-	"chipgo/hw"
-	"chipgo/interpreter"
-	"chipgo/ui"
-	"chipgo/utils"
+	"chipgo/internal/hw"
+	"chipgo/internal/interpreter"
+	"chipgo/internal/ui"
+	"chipgo/internal/utils"
 	"fmt"
 	"os"
 	"time"

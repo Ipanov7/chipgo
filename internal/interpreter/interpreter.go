@@ -1,9 +1,9 @@
 package interpreter
 
 import (
-	"chipgo/entities"
-	"chipgo/hw"
-	"chipgo/ui"
+	"chipgo/internal/entities"
+	"chipgo/internal/hw"
+	"chipgo/internal/ui"
 	"fmt"
 	"math/rand"
 )
