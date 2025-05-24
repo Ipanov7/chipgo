@@ -1,10 +1,10 @@
 Chipgo is a Golang implementation of the CHIP-8 processor. Technical specs were taken from Cowgod's article [here](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#00EE)
 
 # TODO
-- [] Input
-- [] Audio
-- [] Replace virtual stack with in-memory implementation
-- [] Use in-memory buffer to store sprites info before rendering
+- [ ] Input
+- [ ] Audio
+- [ ] Replace virtual stack with in-memory implementation
+- [ ] Use in-memory buffer to store sprites info before rendering
 
 # Usage
 There are 2 programs in this project:
